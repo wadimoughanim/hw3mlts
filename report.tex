@@ -5,8 +5,8 @@
 % Document title
 \title{Assignment 3 (ML for TS) - MVA 2023/2024}
 \author{
-Firstname Lastname \email{youremail1@mail.com} \\ % student 1
-Firstname Lastname \email{youremail2@mail.com} % student 2
+Firstname Lastname \email{sahbi.hanafi@student-cs.fr} \\ % student 1
+Firstname Lastname \email{wadi.moughanim@mail.com} % student 2
 }
 
 
@@ -69,8 +69,8 @@ What are the two symbolic sequences encoded in the test set?
 
 \begin{solution}
     \begin{itemize}
-        \item Sequence 1:
-        \item Sequence 2:
+        \item Sequence 1:['2', '1', 'C', '9', '9']
+        \item Sequence 2:['1', '\#', '2', '\#']
     \end{itemize}
 \end{solution}
 
@@ -102,20 +102,13 @@ Plot the kernel functions $\hat{g}_m$ for $R=1$, $R=3$ and $R=5$ (take $\lambda_
 \end{exercise}
 
 \begin{solution}
+The influence of $R$ on the kernel functions $\hat{g}_m$ is that it controls the width of the support of the kernel functions in the spectral domain. As $R$ increases, the kernels become wider and smoother, which means they will capture a broader range of frequencies. This can affect the localization of the wavelets in the spectral domain. For $R=1$, the kernels are very localized and affect a narrow range of frequencies. As $R$ increases to 3 and 5, the kernels cover a wider range of frequencies and the transitions between adjacent kernels become smoother. This implies that a larger $R$ can better capture the overall structure of the signal at the cost of spectral resolution.
 \begin{figure}
     \centering
-    \begin{minipage}[t]{0.32\textwidth}
-    \centerline{\includegraphics[width=\textwidth]{example-image-golden}}
-    \centerline{(a) $R=1$}
+    \begin{minipage}[t]{1\textwidth}
+    \centerline{\includegraphics[width=\textwidth]{output.png}}
     \end{minipage}
-    \hfill
-    \begin{minipage}[t]{0.32\textwidth}    \centerline{\includegraphics[width=\textwidth]{example-image-golden}}
-    \centerline{(b) $R=3$}
-    \end{minipage}
-    \hfill
-    \begin{minipage}[t]{0.32\textwidth}    \centerline{\includegraphics[width=\textwidth]{example-image-golden}}
-    \centerline{(c) $R=5$}
-    \end{minipage}
+
     \caption{The SAGW kernels functions}\label{fig:sagw-kernels}
 \end{figure}
 \end{solution}
