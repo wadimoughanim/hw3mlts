@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.26)  30 DEC 2023 01:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.26)  30 DEC 2023 02:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -906,92 +906,4 @@ Overfull \hbox (205.03273pt too wide) in paragraph at lines 35--36
 
 [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [2]
-LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 83.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-)
-LaTeX Font Info:    Trying to load font information for U+dsrom on input line 96.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/doublestroke/Udsrom.fd
-File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
-)
-
-LaTeX Warning: Reference `fig:sagw-kernels' on page 3 undefined on input line 102.
-
-<output.png, id=40, 1076.823pt x 354.123pt>
-File: output.png Graphic file (type png)
-<use output.png>
-Package pdftex.def Info: output.png  used on input line 114.
-(pdftex.def)             Requested size: 1076.82037pt x 354.12212pt.
-[3 <./output.png>]
-/Users/wadimoughanim/Documents/education/Master_MVA/MVA_MLTS/hw3mlts/report.tex:140: Missing $ inserted.
-<inserted text> 
-                $
-l.140 \end{solution}
-                    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-/Users/wadimoughanim/Documents/education/Master_MVA/MVA_MLTS/hw3mlts/report.tex:140: Missing $ inserted.
-<inserted text> 
-                $
-l.140 \end{solution}
-                    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-[4]
-<output2.png, id=69, 1013.2254pt x 283.2984pt>
-File: output2.png Graphic file (type png)
-<use output2.png>
-Package pdftex.def Info: output2.png  used on input line 167.
-(pdftex.def)             Requested size: 1013.22293pt x 283.2977pt.
- [5 <./output2.png>]
-<output3.png, id=80, 612.1269pt x 339.669pt>
-File: output3.png Graphic file (type png)
-<use output3.png>
-Package pdftex.def Info: output3.png  used on input line 182.
-(pdftex.def)             Requested size: 612.1254pt x 339.66817pt.
- [6 <./output3.png>]
-<example-image-golden.pdf, id=91, 324.82053pt x 200.75pt>
-File: example-image-golden.pdf Graphic file (type pdf)
-<use example-image-golden.pdf>
-Package pdftex.def Info: example-image-golden.pdf  used on input line 206.
-(pdftex.def)             Requested size: 324.81972pt x 200.7495pt.
-
-
-Package xsim Warning: Exercise properties may have changed. Rerun to get them
-(xsim)                synchronized.
-
-[7 </usr/local/texlive/2023/texmf-dist/tex/latex/mwe/example-image-golden.pdf>] (./report.aux (./report.xsim))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D824159B9E449E8B0FE043115A27F0B9;601.
- ) 
-Here is how much of TeX's memory you used:
- 30592 strings out of 476025
- 603653 string characters out of 5790016
- 1860388 words of memory out of 5000000
- 50440 multiletter control sequences out of 15000+600000
- 549572 words of font info for 131 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 116i,10n,118p,4361b,556s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/doublestroke/dsrom10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (7 pages, 463007 bytes).
-PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 49 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+{/usr/local/texlive/2023/texmf-var/fonts/
